@@ -1,3 +1,6 @@
 .idea
+.vscode
 *.sqlite3
+*.pyc
 venv
+gestao_rh/__pycache__/
